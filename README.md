@@ -93,7 +93,7 @@ The functionalities of notes are the following:
 My website on the mobile version:
 <br>
 <p align="center">
-   <img width="500" alt="image" src="https://github.com/user-attachments/assets/029e6969-9399-4a8b-b7aa-f2a38c3d0334" />
-   <img width="200" alt="image" src="https://github.com/user-attachments/assets/416d11af-32ca-4e91-ba74-02693ca6d3c5" />
+   <img width="800" alt="image" src="https://github.com/user-attachments/assets/029e6969-9399-4a8b-b7aa-f2a38c3d0334" />
+   <img width="100" alt="image" src="https://github.com/user-attachments/assets/416d11af-32ca-4e91-ba74-02693ca6d3c5" />
 
 </p>
