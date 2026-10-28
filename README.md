@@ -24,7 +24,7 @@ External Data Sources <br>
 
 <b> Running application </b> 
 <br>
-Biomed explorer can be found online: https://itec4012-skilled-krill.projects.carleton.university/
+Biomed explorer can be found online: [https://itec4012-skilled-krill.projects.carleton.university/](https://itec4012-skilled-krill.projects.carleton.university/?sandbox_share=eyJ0Ijoic2hhcmVsaW5rIiwiaCI6Iml0ZWM0MDEyLXNraWxsZWQta3JpbGwucHJvamVjdHMuY2FybGV0b24udW5pdmVyc2l0eSIsInMiOjMsImUiOjE3OTU4MDIzODV9.OOw7y6uhbhaFGndhaqysTBXZIXeEPJk6jhd01DrXTfE)
 
 <b> Application Overview </b>
 
